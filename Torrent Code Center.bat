@@ -1,3 +1,4 @@
+python -m venv env
 cd env\Scripts\
 call activate.bat
 cd .. 
